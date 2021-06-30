@@ -1,0 +1,6 @@
+name: elys-skyblock
+version: ${project.version}
+main: me.zheroandre.elysskyblock.ElysSkyBlockPlugin
+api-version: 1.16
+load: POSTWORLD
+authors: [ zHeroandre ]
